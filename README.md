@@ -1,6 +1,6 @@
 # Rasa-ChatBot
 internship assignment to develope a rasa based chatbot 
-<h1>Queries used are:<h1>
+<h3>Queries used are:<h3>
   
 1. What are the different kind of systems supported under PM-KUSUM Scheme?
 
@@ -23,4 +23,4 @@ For more information, please visit https://mnre.gov.in/solar/schemes/ or call at
 
   
 # Result
-  <img src=''>
+  <img src='https://github.com/dev-gangwar/Rasa-ChatBot/blob/main/result.png'>
